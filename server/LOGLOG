@@ -1,0 +1,263 @@
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-036-737
+INFO:werkzeug: * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 21:53:25] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 21:53:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'D:\\parsers_oleg_final\\server\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-036-737
+INFO:werkzeug: * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-036-737
+INFO:werkzeug: * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 21:59:58] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 21:59:58] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 21:59:58] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 21:59:58] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 21:59:58] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 21:59:58] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 21:59:59] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-036-737
+INFO:werkzeug: * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:00:30] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:00:43] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:00:47] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:00:52] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:01:00] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:01:05] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'D:\\parsers_oleg_final\\server\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-036-737
+INFO:werkzeug: * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:06:11] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:06:12] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:06:12] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:06:13] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'D:\\parsers_oleg_final\\server\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-036-737
+INFO:werkzeug: * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\parsers_oleg_final\\server\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-036-737
+INFO:werkzeug: * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-036-737
+INFO:werkzeug: * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:10:11] "[37mGET /create_task/task_type=by_username HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'D:\\parsers_oleg_final\\server\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-036-737
+INFO:werkzeug: * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-036-737
+INFO:werkzeug: * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:12:33] "[37mGET /create_task/task_type=by_username/data=olegpash HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'D:\\parsers_oleg_final\\server\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-036-737
+INFO:werkzeug: * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:19:54] "[37mGET /create_task/task_type=by_username/data=olegpash HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'D:\\parsers_oleg_final\\server\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-036-737
+INFO:werkzeug: * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-036-737
+INFO:werkzeug: * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:20:08] "[37mGET /create_task/task_type=by_username/data=olegpash HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-036-737
+INFO:werkzeug: * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:20:18] "[37mGET /create_task/task_type=by_username/data=olegpash HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'D:\\parsers_oleg_final\\server\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-036-737
+INFO:werkzeug: * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-036-737
+INFO:werkzeug: * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:22:30] "[37mGET /create_task/task_type=by_username/data=olegpash HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:22:30] "[37mGET /create_task/task_type=by_username/data=olegpash HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:22:31] "[37mGET /create_task/task_type=by_username/data=olegpash HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'D:\\parsers_oleg_final\\server\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-036-737
+INFO:werkzeug: * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\parsers_oleg_final\\server\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-036-737
+INFO:werkzeug: * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\parsers_oleg_final\\server\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-036-737
+INFO:werkzeug: * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\parsers_oleg_final\\server\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-036-737
+INFO:werkzeug: * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:26:15] "[37mGET /create_task/task_type=by_username/data=olegpash HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:26:16] "[37mGET /create_task/task_type=by_username/data=olegpash HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:26:17] "[37mGET /create_task/task_type=by_username/data=olegpash HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:26:18] "[37mGET /create_task/task_type=by_username/data=olegpash HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:26:27] "[37mGET /create_task/task_type=by_usersname/data=olegpash HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-036-737
+INFO:werkzeug: * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:26:44] "[37mGET /create_task/task_type=by_username/data=olegpash HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:26:48] "[33mGET /create_task/task_type=by_username/data= HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:26:51] "[33mGET /create_task/task_type=by_username/data= HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:26:53] "[37mGET /create_task/task_type=by_username/data=2 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'D:\\parsers_oleg_final\\server\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-036-737
+INFO:werkzeug: * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\parsers_oleg_final\\server\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-036-737
+INFO:werkzeug: * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:35:42] "[37mGET /create_task/task_type=by_username/data=2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:35:43] "[37mGET /create_task/task_type=by_username/data=2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:35:44] "[37mGET /create_task/task_type=by_username/data=2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:35:48] "[37mGET /create_task/task_type=by_username/data=24353 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'D:\\parsers_oleg_final\\server\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-036-737
+INFO:werkzeug: * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:42:45] "[37mGET /check_request_by_id/request_id=2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:42:46] "[37mGET /check_request_by_id/request_id=2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:42:46] "[37mGET /check_request_by_id/request_id=2 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-036-737
+INFO:werkzeug: * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:46:45] "[35m[1mGET /check_request_by_id/request_id=2 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:46:45] "[37mGET /check_request_by_id/request_id=2?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:46:45] "[37mGET /check_request_by_id/request_id=2?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:46:45] "[37mGET /check_request_by_id/request_id=2?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:46:45] "[37mGET /check_request_by_id/request_id=2?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:46:45] "[37mGET /check_request_by_id/request_id=2?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:46:45] "[37mGET /check_request_by_id/request_id=2?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'D:\\parsers_oleg_final\\server\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-036-737
+INFO:werkzeug: * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:47:43] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:48:05] "[37mGET /create_task/task_type=by_username/data=olegpash HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:48:12] "[37mGET /check_request_by_id/request_id=1 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'D:\\parsers_oleg_final\\server\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-036-737
+INFO:werkzeug: * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\parsers_oleg_final\\server\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-036-737
+INFO:werkzeug: * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-036-737
+INFO:werkzeug: * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:52:33] "[35m[1mGET /check_request_by_id/request_id=1 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:52:33] "[37mGET /check_request_by_id/request_id=1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:52:33] "[37mGET /check_request_by_id/request_id=1?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:52:33] "[37mGET /check_request_by_id/request_id=1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:52:33] "[37mGET /check_request_by_id/request_id=1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:52:33] "[37mGET /check_request_by_id/request_id=1?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:52:33] "[37mGET /check_request_by_id/request_id=1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-036-737
+INFO:werkzeug: * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:52:46] "[35m[1mGET /check_request_by_id/request_id=1 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:52:46] "[37mGET /check_request_by_id/request_id=1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:52:46] "[37mGET /check_request_by_id/request_id=1?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:52:47] "[37mGET /check_request_by_id/request_id=1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:52:47] "[37mGET /check_request_by_id/request_id=1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:52:47] "[37mGET /check_request_by_id/request_id=1?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:52:47] "[37mGET /check_request_by_id/request_id=1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-036-737
+INFO:werkzeug: * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:53:26] "[35m[1mGET /check_request_by_id/request_id=1 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:53:26] "[37mGET /check_request_by_id/request_id=1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:53:26] "[37mGET /check_request_by_id/request_id=1?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:53:26] "[37mGET /check_request_by_id/request_id=1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:53:26] "[37mGET /check_request_by_id/request_id=1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:53:26] "[37mGET /check_request_by_id/request_id=1?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:53:27] "[37mGET /check_request_by_id/request_id=1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-036-737
+INFO:werkzeug: * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:54:56] "[35m[1mGET /check_request_by_id/request_id=1 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:54:56] "[37mGET /check_request_by_id/request_id=1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:54:56] "[37mGET /check_request_by_id/request_id=1?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:54:56] "[37mGET /check_request_by_id/request_id=1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:54:57] "[37mGET /check_request_by_id/request_id=1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:54:57] "[37mGET /check_request_by_id/request_id=1?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:54:57] "[37mGET /check_request_by_id/request_id=1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-036-737
+INFO:werkzeug: * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:55:08] "[35m[1mGET /check_request_by_id/request_id=1 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:55:08] "[37mGET /check_request_by_id/request_id=1?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:55:08] "[37mGET /check_request_by_id/request_id=1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:55:08] "[37mGET /check_request_by_id/request_id=1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:55:08] "[37mGET /check_request_by_id/request_id=1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:55:08] "[37mGET /check_request_by_id/request_id=1?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:55:09] "[37mGET /check_request_by_id/request_id=1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-036-737
+INFO:werkzeug: * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:55:37] "[37mGET /check_request_by_id/request_id=1 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:55:38] "[37mGET /check_request_by_id/request_id=1 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:55:39] "[37mGET /check_request_by_id/request_id=1 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:55:42] "[37mGET /check_request_by_id/request_id=2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:55:45] "[37mGET /check_request_by_id/request_id=1 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:55:47] "[33mGET /check_request_by_id/request_id=-1 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:55:50] "[37mGET /check_request_by_id/request_id=0 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:55:51] "[37mGET /check_request_by_id/request_id=1 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'D:\\parsers_oleg_final\\server\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-036-737
+INFO:werkzeug: * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:56:39] "[37mGET /create_task/task_type=by_username/data=olegpash23 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:56:41] "[37mGET /check_request_by_id/request_id=1 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:56:43] "[37mGET /check_request_by_id/request_id=2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:56:45] "[37mGET /check_request_by_id/request_id=3 HTTP/1.1[0m" 200 -
