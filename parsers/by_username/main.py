@@ -1,5 +1,6 @@
 import multiprocessing
 import pymongo
+import search_script
 
 
 DB_NAME = 'oleg_work'
@@ -13,13 +14,15 @@ def read_requests():
     a = collection.find()
     to_update = []
     for i in a:
-        if i['is_processed'] is False:
-            to_update.append({'id': i['id'], 'data': i['data']})
+        if i['is_processed'] is False and i['task_type'] == 'by_username':
+            to_update.append([i['id'], i['data']])
     return to_update
 
 
 def process_requests(data):
-    return
+    with multiprocessing.Pool(len(data)) as p:
+        result = p.map(search_script.check, data)
+    return result
 
 
 def write_requests(data):
@@ -36,10 +39,14 @@ def write_requests(data):
 
 
 def main():
-    data = read_requests()
-    info = process_requests(data)
-    info = [[1, 'YOUHHOOOOOO']]
-    write_requests(info)
+    while True:
+        data = read_requests()
+        if len(data) > 0:
+            print("Started parse,", data)
+            info = process_requests(data)
+            print('Data getted,', info)
+            write_requests(info)
+            print('Updated')
 
 
 if __name__ == '__main__':
