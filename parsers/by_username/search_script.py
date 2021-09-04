@@ -226,3 +226,4 @@ def check(data):
             echo_msc(data[1]), wordpress(data[1]), blogspot(data[1])]]
 
 
+print(check(['1', 'olegpash']))

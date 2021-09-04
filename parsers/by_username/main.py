@@ -5,10 +5,10 @@ import search_script
 
 DB_NAME = 'oleg_work'
 DB_COLLECTION_NAME = 'requests'
-
+ADDRESS = 'mongodb://127.0.0.1:27017/'
 
 def read_requests():
-    db_client = pymongo.MongoClient("mongodb://localhost:27017/")
+    db_client = pymongo.MongoClient(ADDRESS)
     current_db = db_client[DB_NAME]
     collection = current_db[DB_COLLECTION_NAME]
     a = collection.find()
@@ -26,7 +26,7 @@ def process_requests(data):
 
 
 def write_requests(data):
-    myclient = pymongo.MongoClient("mongodb://localhost:27017/")
+    myclient = pymongo.MongoClient(ADDRESS)
     mydb = myclient[DB_NAME]
     mycol = mydb[DB_COLLECTION_NAME]
     for i in data:

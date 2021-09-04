@@ -2,17 +2,21 @@ from flask import Flask, jsonify
 import logging
 import pymongo
 
+
 application = Flask(__name__)
 application.config['SECRET_KEY'] = 'aaaaa'
 APP_NAME = 'API'
 logging.basicConfig(filename="LOGLOG", level=logging.INFO)
 DB_NAME = 'oleg_work'
 DB_COLLECTION_NAME = 'requests'
+application.config['JSON_AS_ASCII'] = False
+# http://194.126.160.97/create_task/task_type=by_fio/data=penis
+ADDRESS = 'mongodb://127.0.0.1:27017/'
 
 
 @application.route('/create_task/task_type=<string:task_type>/data=<string:data>', methods=['GET', 'POST'])
 def create_task(task_type, data):
-    db_client = pymongo.MongoClient("mongodb://localhost:27017/")
+    db_client = pymongo.MongoClient(ADDRESS)
     current_db = db_client[DB_NAME]
     collection = current_db[DB_COLLECTION_NAME]
     if task_type == 'by_fio' or task_type == 'by_username' or task_type == 'by_phone' or task_type == 'by_docs' or \
@@ -28,7 +32,7 @@ def create_task(task_type, data):
 
 @application.route('/check_request_by_id/request_id=<int:request_id>', methods=['GET', 'POST'])
 def get_result(request_id):
-    myclient = pymongo.MongoClient("mongodb://localhost:27017/")
+    myclient = pymongo.MongoClient(ADDRESS)
     mydb = myclient[DB_NAME]
     mycol = mydb[DB_COLLECTION_NAME]
     myquery = {"id": request_id}

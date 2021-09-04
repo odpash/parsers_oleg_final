@@ -261,3 +261,70 @@ INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:56:39] "[37mGET /create_task/task_t
 INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:56:41] "[37mGET /check_request_by_id/request_id=1 HTTP/1.1[0m" 200 -
 INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:56:43] "[37mGET /check_request_by_id/request_id=2 HTTP/1.1[0m" 200 -
 INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 22:56:45] "[37mGET /check_request_by_id/request_id=3 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 23:14:12] "[37mGET /check_request_by_id/request_id=3 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 23:14:14] "[37mGET /check_request_by_id/request_id=1 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 23:15:25] "[37mGET /check_request_by_id/request_id=1 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 23:15:28] "[37mGET /check_request_by_id/request_id=2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 23:15:30] "[37mGET /check_request_by_id/request_id=1 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 23:42:17] "[37mGET /check_request_by_id/request_id=1 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 23:42:18] "[37mGET /check_request_by_id/request_id=2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 23:42:25] "[37mGET /check_request_by_id/request_id=2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 23:42:30] "[37mGET /check_request_by_id/request_id=2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 23:43:20] "[37mGET /check_request_by_id/request_id=2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 23:43:20] "[37mGET /check_request_by_id/request_id=2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 23:43:21] "[37mGET /check_request_by_id/request_id=2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 23:43:21] "[37mGET /check_request_by_id/request_id=2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 23:43:21] "[37mGET /check_request_by_id/request_id=2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 23:43:21] "[37mGET /check_request_by_id/request_id=2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 23:43:21] "[37mGET /check_request_by_id/request_id=2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 23:43:22] "[37mGET /check_request_by_id/request_id=2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 23:43:22] "[37mGET /check_request_by_id/request_id=2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 23:43:22] "[37mGET /check_request_by_id/request_id=2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 23:43:23] "[37mGET /check_request_by_id/request_id=2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 23:43:23] "[37mGET /check_request_by_id/request_id=2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 23:43:24] "[37mGET /check_request_by_id/request_id=2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 23:43:24] "[37mGET /check_request_by_id/request_id=2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 23:43:24] "[37mGET /check_request_by_id/request_id=2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 23:45:36] "[37mGET /check_request_by_id/request_id=2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 23:45:39] "[37mGET /check_request_by_id/request_id=2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 23:45:44] "[37mGET /create_task/task_type=by_username/data=olegpash HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 23:45:51] "[37mGET /check_request_by_id/request_id=2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 23:45:52] "[37mGET /check_request_by_id/request_id=2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 23:45:53] "[37mGET /check_request_by_id/request_id=1 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 23:45:56] "[37mGET /check_request_by_id/request_id=3 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Aug/2021 23:47:01] "[37mGET /check_request_by_id/request_id=4 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Sep/2021 00:23:09] "[37mGET /create_task/task_type=by_username/data=olegpash HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Sep/2021 00:23:14] "[37mGET /check_request_by_id/request_id=4 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Sep/2021 00:23:19] "[37mGET /check_request_by_id/request_id=4 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Sep/2021 00:23:19] "[37mGET /check_request_by_id/request_id=4 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Sep/2021 00:31:12] "[37mGET /create_task/task_type=by_username/data=ildar HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Sep/2021 00:31:22] "[37mGET /check_request_by_id/request_id=5 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Sep/2021 00:31:24] "[37mGET /check_request_by_id/request_id=5 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Sep/2021 00:31:25] "[37mGET /check_request_by_id/request_id=5 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Sep/2021 00:32:53] "[37mGET /check_request_by_id/request_id=5 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Sep/2021 00:35:00] "[37mGET /create_task/task_type=by_username/data=ashot HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Sep/2021 00:35:05] "[37mGET /check_request_by_id/request_id=6 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Sep/2021 00:35:07] "[37mGET /check_request_by_id/request_id=6 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Sep/2021 00:35:08] "[37mGET /check_request_by_id/request_id=6 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Sep/2021 00:35:08] "[37mGET /check_request_by_id/request_id=6 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Sep/2021 00:35:11] "[37mGET /check_request_by_id/request_id=6 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Sep/2021 00:35:11] "[37mGET /check_request_by_id/request_id=6 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Sep/2021 00:35:12] "[37mGET /check_request_by_id/request_id=6 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-036-737
+INFO:werkzeug: * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [04/Sep/2021 17:41:13] "[37mGET /create_task/task_type=by_username/data=olegpash HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Sep/2021 17:41:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Sep/2021 17:41:26] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Sep/2021 17:41:38] "[37mGET /check_request_by_id/request_id=7 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Sep/2021 17:43:55] "[37mGET /create_task/task_type=by_fio/data=olegpash HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Sep/2021 17:56:25] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Sep/2021 17:56:32] "[37mGET /check_request_by_id/request_id=9 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Sep/2021 18:05:12] "[37mGET /check_request_by_id/request_id=8 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Sep/2021 18:05:14] "[37mGET /check_request_by_id/request_id=9 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'D:\\parsers_oleg_final\\server\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 290-036-737
+INFO:werkzeug: * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
